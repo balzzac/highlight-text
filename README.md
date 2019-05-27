@@ -58,8 +58,11 @@ const highlightsInput = [
 ```
 ### Notes
 * I've started to write `highlight.test.js` file to create automatic tests, however, the output of the function is complex and requires time, so tests were manual.
-* Tested only in `Google Chrome`
+* Tested in `Google Chrome`, `Opera`, `Edge`, `Mozilla` (doesn't work for some reason)
 
 ## Assumptions
 1. `color` is always HEXx6
 2. `endOffset` is always bigger than `startOffset`
+
+## Further Development
+* Figure out why my code doesn't work in `Mozilla` and fix the problem
