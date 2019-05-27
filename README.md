@@ -14,8 +14,9 @@
   * loop through sorted-by `endOffset` `highlights` array and alter the string, inserting into it closing and opening `span` tags with `background: color`.
 * Created a simple `App` component that renders the output of my `highlight` function.
 
-## Screenshot
+## Solution
 ![Screenshot](screenshot.png)
+Live demo https://highlightcodechallenge.netlify.com/
 
 ## Tested with the following string / cases
 ```js
