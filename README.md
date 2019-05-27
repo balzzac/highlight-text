@@ -16,6 +16,7 @@
 
 ## Solution
 ![Screenshot](screenshot.png)
+
 Live demo https://highlightcodechallenge.netlify.com/
 
 ## Tested with the following string / cases
